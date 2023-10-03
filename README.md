@@ -1,2 +1,3 @@
-# maddness-is.github.io
-maddness-is
+# maddness.is
+
+maddness is courage
