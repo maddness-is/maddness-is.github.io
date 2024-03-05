@@ -1,3 +1,3 @@
-# maddness.is
+# maddness.is = ?
 
 maddness is courage
